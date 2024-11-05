@@ -1,0 +1,18 @@
+:root {
+    --bs-primary: #3498db;
+    --bs-secondary: #2ecc71;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#hero {
+    background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/913979117633251.60d881adecea5.png') center center no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+footer p {
+    margin: 0;
+}
