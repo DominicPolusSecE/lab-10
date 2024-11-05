@@ -1,5 +1,8 @@
 # Bootstrap Practice Lab
 
+Dominic Polus
+n01708027
+
 This project is a responsive webpage built with Bootstrap, designed to showcase various Bootstrap components and utilities. The page includes a navbar, a hero banner, sections for services and portfolio, a contact form, and a footer. 
 
 ### Features
